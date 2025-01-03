@@ -59,13 +59,13 @@ I'm **Uche Royal**, a passionate **Full-Stack Blockchain Developer** with a focu
 - **Description**: Decentralized autonomous organization implementation.  
 - **Tech Stack**: Solidity, Foundry, JavaScript.  
 - [View on GitHub](https://github.com/codebasebo/Foundry-DAO)
-- ----
-
-
+---
 
 ### **Let's Connect**
-I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out! 
+I'm always open to collaborating on exciting projects or discussing new ideas. Feel free to reach out!  
+
 📧 [Email](ucheroyal990@mail.com)    
 💼 [LinkedIn](https://www.linkedin.com/in/uche-royal-876b2b226/)  
+
 
 
