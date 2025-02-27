@@ -4,7 +4,7 @@
 **codebasebo/codebasebo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I'm **Uche Royal**, a passionate **Full-Stack Blockchain Developer** with a focus on **blockchain**, **AI**, and **Web3 technologies**. I love building innovative solutions that combine cutting-edge tools and frameworks to solve real-world problems.
+I'm **Uche Royal**, a passionate **Full-Stack Blockchain Developer/ Security Researcher** with a focus on **blockchain**, **AI**, and **Web3 technologies**. I love building innovative solutions that combine cutting-edge tools and frameworks to solve real-world problems.
 
 ---
 
