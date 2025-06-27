@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m 0x68!
 
-🕵️‍♂️ **Freelancer Security Suiditor** | Blockchain Bug Hunter 
+🕵️‍♂️ **Freelancer Security Auditor | Blockchain Bug Hunter**
 
 ## 🚀 About Me
 
@@ -36,4 +36,5 @@ Hey! I’m a freelance security auditor (“0x68"), passionate about keeping the
 
 ---
 
-*Feel free to fork, star, or reach out about collabs, audits, or just to geek out about security!*
+## 💬 Let’s Connect
+I’m passionate about advancing blockchain security—feel free to reach out to discuss audits, research collaborations, or speaking opportunities.
